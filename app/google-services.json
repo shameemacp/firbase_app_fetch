@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726086588329",
+    "firebase_url": "https://my-app-120f6.firebaseio.com",
+    "project_id": "my-app-120f6",
+    "storage_bucket": "my-app-120f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726086588329:android:b2d899a1bacd149f6716b8",
+        "android_client_info": {
+          "package_name": "nirmal.developer.firbaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726086588329-f8sth88akisgdiirgoq1u4bk0a3urvua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsEtfWsP8xDsvnc8a4PL1IIMO2dTwQv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726086588329-f8sth88akisgdiirgoq1u4bk0a3urvua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
